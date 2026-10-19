@@ -2,21 +2,21 @@
 
 A Java console application that helps students practice questions, identify weak topics and prepare a daily study plan.
 
-> This version uses a rule-based revision-priority algorithm. It does not use a trained AI model or predict actual exam questions.
+> This version uses a rule-based revision-priority algorithm, It does not use a trained AI model or predict actual exam questions.
 
 ## Features
 
 - 41 multiple-choice questions based on the Java OOP syllabus
 - Topic-wise and mixed practice quizzes
 - Confidence ratings from 1 to 5
-- Revision priorities based on confidence and quiz performance
+- Revision priorities based on confidence and quiz performance.
 - Study plans based on exam date and daily study time
 - Dashboard showing topic-wise results and overall accuracy
 - Automatic progress saving and loading
 
 ## Technologies Used
 
-- Java — JDK 17 or newer
+- Java — JDK 17 or new
 - Arrays and ArrayList
 - Scanner
 - Lambda expressions and Comparator
